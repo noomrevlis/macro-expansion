@@ -1,0 +1,7 @@
+# Can ignore specific files
+.DS_Store
+.pyc
+
+# Use wildcards as well
+*~
+*.swp
